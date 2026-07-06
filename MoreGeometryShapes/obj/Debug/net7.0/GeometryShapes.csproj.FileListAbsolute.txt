@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\bin\Debug\net7.0\GeometryShapes.exe
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\bin\Debug\net7.0\GeometryShapes.deps.json
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\bin\Debug\net7.0\GeometryShapes.runtimeconfig.json
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\bin\Debug\net7.0\GeometryShapes.dll
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\bin\Debug\net7.0\GeometryShapes.pdb
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\obj\Debug\net7.0\GeometryShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\obj\Debug\net7.0\GeometryShapes.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\obj\Debug\net7.0\GeometryShapes.AssemblyInfo.cs
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\obj\Debug\net7.0\GeometryShapes.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\obj\Debug\net7.0\GeometryShapes.dll
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\obj\Debug\net7.0\refint\GeometryShapes.dll
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\obj\Debug\net7.0\GeometryShapes.pdb
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\obj\Debug\net7.0\GeometryShapes.genruntimeconfig.cache
+C:\Users\Asus\source\repos\GeometryShapes\GeometryShapes\obj\Debug\net7.0\ref\GeometryShapes.dll
